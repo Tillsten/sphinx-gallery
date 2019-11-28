@@ -26,7 +26,6 @@ every module.
    py_source_parser
    docs_resolv
    notebook
-   downloads
-   docs_resolv
+   downloads   
    sorting
    binder
